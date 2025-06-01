@@ -11,4 +11,4 @@ function oddEvenCounter(paramsInit, paramsEnd) {
   console.log(`Total number of odd numbers is ${oddCount}`);
   console.log(`Total number of even numbers is ${evenCount}`);
 }
-oddEvenCounter(1, 20);
+oddEvenCounter(1, 20); // Enter your input here
