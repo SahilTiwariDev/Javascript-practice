@@ -5,4 +5,4 @@ function sumOfElements(params) {
   }
   console.log(`The sum of elements in this array is ${sum}`);
 }
-sumOfElements([1, 2, 3, 4, 5]); // Enter your input here
+sumOfElements([1, 2, 3, 4, 5]); // Enter your input here 
